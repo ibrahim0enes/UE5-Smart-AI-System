@@ -18,13 +18,16 @@ Content/Characters/
 
 # Third-party Fab packs and animations taken from them (licences do not allow sharing, see README)
 Content/Animations/
+Content/Basic_Actions/
 Content/Fab/
-Content/FreeAnimationLibrary/
-Content/PunchAnimationPackV2/
+Content/FootstepsMiniPack/
+Content/Free_Sounds_Pack/
+Content/IndustryPropsPack6/
+Content/Procedural_Hearbeat/
+Content/SmallSoundKit/
 Content/SwordCombatAnimations/
-Content/LocomotionAnimPack/
-Content/__ExternalActors__/LocomotionAnimPack/
-Content/__ExternalObjects__/LocomotionAnimPack/
+Content/TheAlertedNPC_Male/
+Content/_System2/Animations/
 
 # OS
 .DS_Store
