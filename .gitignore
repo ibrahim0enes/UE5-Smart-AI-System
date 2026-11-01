@@ -1,0 +1,31 @@
+# Unreal generated folders
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+Config/DefaultEditorPerProjectUserSettings.ini
+
+# IDE
+.vs/
+.idea/
+.vscode/
+*.sln
+*.vcxproj*
+
+# Epic mannequins from the Third Person template (add them yourself, see README)
+Content/Characters/
+
+# Third-party Fab packs and animations taken from them (licences do not allow sharing, see README)
+Content/Animations/
+Content/Fab/
+Content/FreeAnimationLibrary/
+Content/PunchAnimationPackV2/
+Content/SwordCombatAnimations/
+Content/LocomotionAnimPack/
+Content/__ExternalActors__/LocomotionAnimPack/
+Content/__ExternalObjects__/LocomotionAnimPack/
+
+# OS
+.DS_Store
+Thumbs.db

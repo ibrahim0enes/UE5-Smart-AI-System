@@ -1,0 +1,13 @@
+# Text files
+* text=auto
+*.ini text eol=lf
+*.md text eol=lf
+*.uproject text eol=lf
+*.svg text eol=lf
+
+# Unreal assets are binary
+*.uasset binary
+*.umap binary
+*.png binary
+*.gif binary
+*.wav binary
